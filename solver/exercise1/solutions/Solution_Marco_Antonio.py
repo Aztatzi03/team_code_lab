@@ -1,6 +1,6 @@
 
 def cuadrado(a):
-    if type(a)=bool:
+    if type(a):bool
         return print("la funcion no admite varibles logicas")
     else:
         return a*a
