@@ -1,0 +1,1 @@
+Escribe una función que reciba una lista de números como entrada y devuelva una nueva lista donde cada número haya sido elevado al cuadrado, maneja el caso en que no todos los elemento de la lista no sean numeros
